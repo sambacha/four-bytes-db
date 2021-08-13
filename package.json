@@ -1,0 +1,22 @@
+{
+  "name": "4byte-crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "events": "node event-signatures/index.js",
+     "sigs": "node signatures/index.js",
+    "pack": "sh generate-archive.sh"
+  },
+  "keywords": ["4bytes", "ethereum", "methodId"],
+  "author": "sam bacha",
+  "license": "GPL-2-Only",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
