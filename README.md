@@ -1,6 +1,10 @@
 # four-bytes-db
 Comprehensive Collection of Ethereum Signatures from multiple sources
 
+## Download the Archive 
+
+[https://www.dropbox.com/s/l86oms58b70ywhs/signatures_4bytes.zip?dl=0](https://www.dropbox.com/s/l86oms58b70ywhs/signatures_4bytes.zip?dl=0)
+
 ## Function Signatures
 
 ```json
