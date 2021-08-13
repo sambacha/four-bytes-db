@@ -1,8 +1,8 @@
 {
   "name": "4byte-crawl",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Crawl the 4bytes.directory database",
+  "main": "crawler.js",
   "scripts": {
     "events": "node event-signatures/index.js",
      "sigs": "node signatures/index.js",
