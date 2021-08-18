@@ -2,7 +2,7 @@
  * @file 4byte-crawler
  * @summary crawls 4byte and saves output as json
  * @version v0.2.0
- * @license GPL-2-Only
+ * @license MIT
  */
 
 // const request = require("request");
