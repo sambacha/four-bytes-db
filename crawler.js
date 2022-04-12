@@ -12,7 +12,7 @@ const fs = require("fs-extra");
 
 // @note helper to delay execution by 300ms to 1100ms
 async function delay() {
-  const durationMs = Math.random() * 800 + 300;
+  const durationMs = Math.random() * 1200 + 600;
   return new Promise(resolve => {
     setTimeout(() => resolve(), durationMs);
   });

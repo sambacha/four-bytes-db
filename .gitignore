@@ -1,3 +1,9 @@
+*.zip
+perf/
+_downloads/
+_176/
+sync/
+.DS_Store
 known_hashes.py
 # Logs
 logs
